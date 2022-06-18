@@ -4,4 +4,4 @@ V modulech zajišťujících obsluhu emailu je potřeba nahradit placeholdery em
 
 ukázka použití osobní hlasové asistentky: https://youtu.be/QWMX-SD7RcI
 
-ukázka použití nástroje Gimir: https://youtu.be/wlM5vDa9gUs
+ukázka použití nástroje Gimir: https://youtu.be/hwCkOOEvgKs
